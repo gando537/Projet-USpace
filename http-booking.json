@@ -1,0 +1,7 @@
+{
+  "bookingDateTime": "2085-01-15T10:00:00",
+  "cabinType": "STANDARD",
+  "travelers": [
+    { "name": "Alice", "category": "ADULT" }
+  ]
+}

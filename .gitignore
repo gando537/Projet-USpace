@@ -33,12 +33,3 @@ build/
 
 ### Mac OS ###
 .DS_Store
-
-post-data.json
-http-booking.json
-get-booking-id.sh
-get-traveler-id.sh
-zeroG.json
-post-data-missing-arrival.json
-post-data-bad-format.json
-test-zeroG-full.sh
